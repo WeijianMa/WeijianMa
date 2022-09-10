@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>网站功能简介</title>
+      <title>网站功能简介-版本V0.0</title>
       <link href="/2022/09/09/hello-world/"/>
       <url>/2022/09/09/hello-world/</url>
       
-        <content type="html"><![CDATA[<blockquote><ol><li><p>该站点基于Hexo框架和Butterfly主题进行搭建。</p></li><li><p>此站点中的所有图片和文字仅用于测试，都可替换；所有模块的颜色都可修改。</p></li></ol></blockquote><h3 id="主页"><a href="#主页" class="headerlink" title="主页"></a>主页</h3><p>主页主要用于展示最新的消息、文章、推送、公告等。（后续内容多起来之后可以再做一下类似于卡片式布局的分类。）</p><h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3><p>主要用于介绍实验室各个方面的细节。</p><h3 id="People"><a href="#People" class="headerlink" title="People"></a>People</h3><p>主要用于介绍实验室的导师和学生。除了每个人卡片上显示的简要介绍外，点击卡片也可跳转到对应的个人主页，对于没有个人主页的同学，也可在该站点建立自己的个人主页。</p><h3 id="Paper"><a href="#Paper" class="headerlink" title="Paper"></a>Paper</h3><p>主要用于整理实验室发表过的论文、期刊、著作等。</p><h3 id="Project"><a href="#Project" class="headerlink" title="Project"></a>Project</h3><p>主要用于整理实验室所做的一下项目，包括代码、项目主页等。（此页面参考了IPADS实验室主页的项目页面）</p><h3 id="Bulletin"><a href="#Bulletin" class="headerlink" title="Bulletin"></a>Bulletin</h3><p>主要用于整理实验室发布的公告。</p><h3 id="News"><a href="#News" class="headerlink" title="News"></a>News</h3><p>发布实验室最新发生的重大事件的简讯，包括论文被接收、实验室或实验室人员获得某种荣誉等。（此页面参考了IPADS实验室主页的新闻页面）</p>]]></content>
+        <content type="html"><![CDATA[<blockquote><ol><li><p>该站点基于Hexo框架和Butterfly主题进行搭建。</p></li><li><p>此站点中的所有图片和文字仅用于测试，都可替换；所有模块的颜色都可修改。</p></li></ol></blockquote><h3 id="主页"><a href="#主页" class="headerlink" title="主页"></a>主页</h3><p>主页主要用于展示最新的消息、文章、推送、公告等。（后续内容多起来之后可以再做一下类似于卡片式布局的分类。）</p><h3 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h3><p>主要用于介绍实验室各个方面的细节。</p><h3 id="People"><a href="#People" class="headerlink" title="People"></a>People</h3><p>主要用于介绍实验室的导师和学生。除了每个人卡片上显示的简要介绍外，点击卡片也可跳转到对应的个人主页，对于没有个人主页的同学，也可在该站点建立自己的个人主页。</p><h3 id="Paper"><a href="#Paper" class="headerlink" title="Paper"></a>Paper</h3><p>主要用于整理实验室发表过的论文、期刊、著作等。</p><h3 id="Project"><a href="#Project" class="headerlink" title="Project"></a>Project</h3><p>主要用于整理实验室所做的一下项目，包括代码、项目主页等。（此页面参考了IPADS实验室主页的项目页面）</p><h3 id="Bulletin"><a href="#Bulletin" class="headerlink" title="Bulletin"></a>Bulletin</h3><p>主要用于整理实验室发布的公告。</p><h3 id="News"><a href="#News" class="headerlink" title="News"></a>News</h3><p>发布实验室最新发生的重大事件的简讯，包括论文被接收、实验室或实验室人员获得某种荣誉等。（此页面参考了IPADS实验室主页的新闻页面）</p><h3 id="Search"><a href="#Search" class="headerlink" title="Search"></a>Search</h3><p>站点内的全局搜索。</p>]]></content>
       
       
       <categories>
