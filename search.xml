@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>SNG 网站功-版本V0.1</title>
+      <title>SNG 网站 版本V0.1</title>
       <link href="/2022/09/15/SNG-%E7%BD%91%E7%AB%99%E5%8A%9F-%E7%89%88%E6%9C%ACV0-1/"/>
       <url>/2022/09/15/SNG-%E7%BD%91%E7%AB%99%E5%8A%9F-%E7%89%88%E6%9C%ACV0-1/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p><strong>上一版本（<a href="https://weijian-m.github.io/2022/09/09/hello-world/">SNG 网站功能简介-版本V0.0 | SNG (weijian-m.github.io)</a>，网址：<a href="http://weijian-m.github.io/">weijian-m.github.io</a>）</strong>，方星给出了如下修改建议：</p><ol><li>主页：可以把 introduction 放在主页图片下面，然后 introduction 后面可以加个简单的信息流放最近的 news 和 paper（分开放就行，先放 news 后面跟着 papers）</li><li>introduction 可以去掉，改成 reserach，每个研究领域介绍的话，可以左边放个图片，右边放文字，然后从上到下顺序介绍</li><li>people：可以稍微把每个人的头像放小一点，然后名字职称这些先用英文吧（其他页面也注意一下，都先用英文）</li><li>Papers 标题可以改成 Publications，我个人觉得是不是可以不用表格吧，用一个信息流的方式来展示，然后年份作为一个大标题，每个文章有三行（标题，作者，会议&#x2F;期刊+链接）</li><li>Project、Bulletin、Search 暂时可以先不要，然后加一个 Contact 吧，显示一些地址和联系方式</li><li>标题顺序是：Home, People, Research, Publicaitons, News, Contact</li></ol><h3 id="修改情况"><a href="#修改情况" class="headerlink" title="修改情况"></a>修改情况</h3><ol><li>Home：主页大图不再占用全屏，图片下面不再只有最近的Posts。主页大图下面首先是实验室的 Introduction，接着展示最近的论文，近期的 News、帖子等放置在了主页右侧。此外，页面右侧增加了一个小小的公告栏，可填写一些及时的公告和说明。</li><li>去掉了 Introduction，改成了 Reserach。待内容确定后可再做适当排版（例如左边放个图片，右边放文字，然后从上到下顺序介绍等）。</li><li>People：缩小了人物头像，点击人物，可跳转到详细介绍人物的页面。</li><li>Papers 改成了 Publications。该页面中，年份作为一个大标题，每个文章有三行（标题，作者，会议&#x2F;期刊+链接）</li><li>删除了站点内全局搜索功能，删除了 Project、Bulletin 等页面。</li><li>增加了 Contact 页面。</li></ol>]]></content>
       
       
       
